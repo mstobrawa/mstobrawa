@@ -16,19 +16,19 @@ I am a Frontend & Fullstack Developer focused on building clean web applications
 
 Here are the main projects showcasing my stack and development patterns:
 
-### 1. [Moonmade 🌙](https://github.com)
+### 1. [Moonmade 🌙](https://github.com/mstobrawa/moonmade)
 A full-stack e-commerce platform for handcrafted jewelry. 
 * **Stack:** Next.js 14, TypeScript, Supabase Auth & Database, Vercel.
 * **Key areas:** Complex cart logic, checkout flows, multi-step validation, and a work-in-progress Admin Dashboard.
 * [🌐 Live Demo](https://moonmade-test.vercel.app/)
 
-### 2. [Nova Dashboard 🚀](https://github.com)
+### 2. [Nova Dashboard 🚀](https://github.com/mstobrawa/nova-dashboard)
 A reusable, responsive dashboard layout designed for small and medium projects.
 * **Stack:** React 18, TypeScript, Tailwind CSS, Recharts, React Router.
 * **Key areas:** Data visualization, light/dark mode persistence, modular architecture, and API-ready local JSON structure.
 * [🌐 Live Demo](https://nova-dashboard-mvp.netlify.app/)
 
-### 3. [Bogacki Fizjo 🩺](https://github.com) – *Coming Soon*
+### 3. [Bogacki Fizjo 🩺](https://github.com/mstobrawa/bogackifizjo) – *Coming Soon*
 A commercial website designed for a physical therapy clinic, featuring a custom-built CMS.
 * **Stack:** TypeScript, React / Next.js (lub wstaw technologie, w których to pisałeś).
 * **Status:** Fully developed architecture and custom CMS integration. Currently awaiting final content and assets from the client before the official production launch.
