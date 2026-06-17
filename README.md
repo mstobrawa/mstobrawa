@@ -22,13 +22,19 @@ A full-stack e-commerce platform for handcrafted jewelry.
 * **Key areas:** Complex cart logic, checkout flows, multi-step validation, and a work-in-progress Admin Dashboard.
 * [🌐 Live Demo](https://moonmade-test.vercel.app/)
 
-### 2. [Nova Dashboard 🚀](https://github.com/mstobrawa/nova-dashboard)
+### 2. [Dev Palette Generator 🎨](https://github.com/mstobrawa/mikewebworks-dev-palette)
+A utility tool for developers to generate and export accessible UI color palettes.
+* **Stack:** Next.js (App Router), TypeScript, Supabase Auth, Tailwind CSS.
+* **Key areas:** WCAG contrast checking, multi-format export (Tailwind/CSS tokens), keyboard shortcuts, and GitHub OAuth sync.
+* [🌐 Live Demo](https://mikewebworks-dev-palette.vercel.app)
+
+### 3. [Nova Dashboard 🚀](https://github.com/mstobrawa/nova-dashboard)
 A reusable, responsive dashboard layout designed for small and medium projects.
 * **Stack:** React 18, TypeScript, Tailwind CSS, Recharts, React Router.
 * **Key areas:** Data visualization, light/dark mode persistence, modular architecture, and API-ready local JSON structure.
 * [🌐 Live Demo](https://nova-dashboard-mvp.netlify.app/)
 
-### 3. [Bogacki Fizjo 🩺](https://github.com/mstobrawa/bogackifizjo) – *Coming Soon*
+### 4. [Bogacki Fizjo 🩺](https://github.com/mstobrawa/bogackifizjo) – *Coming Soon*
 A commercial website designed for a physical therapy clinic, featuring a custom-built CMS.
 * **Stack:** TypeScript, React / Next.js (lub wstaw technologie, w których to pisałeś).
 * **Status:** Fully developed architecture and custom CMS integration. Currently awaiting final content and assets from the client before the official production launch.
