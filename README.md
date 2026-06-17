@@ -36,7 +36,7 @@ A reusable, responsive dashboard layout designed for small and medium projects.
 
 ### 4. [Bogacki Fizjo 🩺](https://github.com/mstobrawa/bogackifizjo) – *Coming Soon*
 A commercial website designed for a physical therapy clinic, featuring a custom-built CMS.
-* **Stack:** TypeScript, React / Next.js (lub wstaw technologie, w których to pisałeś).
+* **Stack:** Next.js (App Router), TypeScript, Tailwind CSS.
 * **Status:** Fully developed architecture and custom CMS integration. Currently awaiting final content and assets from the client before the official production launch.
 
 ---
